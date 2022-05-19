@@ -1,0 +1,928 @@
+[{
+		"name": "store_1",
+		"position": [{
+			"address": ""
+		}],
+		"phone": "0000000",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			"japanese",
+			"taiwanese"
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "100$"
+			},
+			{
+				"name": "food_2",
+				"price": ""
+			},
+			{
+				"name": "food_3",
+				"price": ""
+			},
+			{
+				"name": "food_4",
+				"price": "10"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "10:00",
+				"end": "19:00"
+			},
+			"tue": {
+				"start": "10:00",
+				"end": "19:00"
+			},
+			"wed": {
+				"start": "10:00",
+				"end": "19:00"
+			},
+			"thu": {
+				"start": "10:00",
+				"end": "19:00"
+			},
+			"fri": {
+				"start": "10:00",
+				"end": "19:00"
+			},
+			"sat": {
+				"start": "10:00",
+				"end": "20:30"
+			},
+			"sun": {
+				"start": "10:00",
+				"end": "20:30"
+			}
+		}
+	},
+	{
+		"name": "store_2",
+		"position": {
+			"address": ""
+		},
+		"phone": "00000",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "50"
+			},
+			{
+				"name": "food_2",
+				"price": "100"
+			},
+			{
+				"name": "food_3",
+				"price": "70"
+			},
+			{
+				"name": "food_4",
+				"price": "35"
+			},
+			{
+				"name": "food_5",
+				"price": "30"
+			},
+			{
+				"name": "food_6",
+				"price": "30"
+			},
+			{
+				"name": "food_7",
+				"price": "30"
+			},
+			{
+				"name": "food_8",
+				"price": "40"
+			},
+			{
+				"name": "food_9",
+				"price": "60"
+			},
+			{
+				"name": "food_10",
+				"price": "30"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "11:00",
+				"end": "10:00"
+			},
+			"tue": {
+				"start": "11:00",
+				"end": "10:00"
+			},
+			"wed": {
+				"start": "11:00",
+				"end": "10:00"
+			},
+			"thu": {
+				"start": "11:00",
+				"end": "10:00"
+			},
+			"fri": {
+				"start": "11:00",
+				"end": "10:00"
+			},
+			"sat": {
+				"start": "11:00",
+				"end": "10:00"
+			},
+			"sun": {
+				"start": "11:00",
+				"end": "10:00"
+			}
+		}
+	},
+	{
+		"name": "store_3",
+		"position": {
+			"address": ""
+		},
+		"phone": "0000",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "110"
+			},
+			{
+				"name": "food_2",
+				"price": "110"
+			},
+			{
+				"name": "food_3",
+				"price": "120"
+			},
+			{
+				"name": "food_4",
+				"price": "110"
+			},
+			{
+				"name": "food_5",
+				"price": "120"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "11:10",
+				"end": "22:00"
+			},
+			"tue": {
+				"start": "11:10",
+				"end": "22:00"
+			},
+			"wed": {
+				"start": "11:10",
+				"end": "22:00"
+			},
+			"thu": {
+				"start": "11:10",
+				"end": "22:00"
+			},
+			"fri": {
+				"start": "11:10",
+				"end": "22:00"
+			},
+			"sat": {
+				"start": "11:10",
+				"end": "22:00"
+			},
+			"sun": {
+				"start": "11:10",
+				"end": "22:00"
+			}
+		}
+	},
+	{
+		"name": "store_4",
+		"position": {
+			"address": ""
+
+		},
+		"phone": "0200",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "200"
+			},
+			{
+				"name": "food_2",
+				"price": "100"
+			},
+			{
+				"name": "food_3",
+				"price": "100"
+			},
+			{
+				"name": "food_4",
+				"price": "80"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "15:30",
+				"end": "23:00"
+			},
+			"tue": {
+				"start": "15:30",
+				"end": "23:00"
+			},
+			"wed": {
+				"start": "15:30",
+				"end": "23:00"
+			},
+			"thu": {
+				"start": "15:30",
+				"end": "23:00"
+			},
+			"fri": {
+				"start": "15:30",
+				"end": "23:00"
+			},
+			"sat": {
+				"start": "15:30",
+				"end": "23:00"
+			},
+			"sun": {
+				"start": "15:30",
+				"end": "23:00"
+			}
+		}
+	},
+	{
+		"name": "store_5",
+		"position": {
+			"address": ""
+
+		},
+		"phone": "0000",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "55"
+			},
+			{
+				"name": "food_2",
+				"price": "40"
+			},
+			{
+				"name": "food_3",
+				"price": "30"
+			},
+			{
+				"name": "food_4",
+				"price": "60"
+			},
+			{
+				"name": "food_5",
+				"price": "50"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "10:30",
+				"end": "13:00"
+			},
+			"tue": {
+				"start": "10:30",
+				"end": "13:00"
+			},
+			"wed": {
+				"start": "10:30",
+				"end": "13:00"
+			},
+			"thu": {
+				"start": "10:30",
+				"end": "13:00"
+			},
+			"fri": {
+				"start": "10:30",
+				"end": "13:00"
+			},
+			"sat": {
+				"start": "10:30",
+				"end": "13:00"
+			},
+			"sun": {
+				"start": "10:30",
+				"end": "13:00"
+			}
+		}
+	},
+	{
+		"name": "store_6",
+		"position": {
+			"address": ""
+		},
+		"phone": "999",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "25"
+			},
+			{
+				"name": "food_2",
+				"price": "15"
+			},
+			{
+				"name": "food_3",
+				"price": "15"
+			},
+			{
+				"name": "food_4",
+				"price": "15"
+			},
+			{
+				"name": "food_5",
+				"price": "20"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "10:00",
+				"end": "23:00"
+			},
+			"tue": {
+				"start": "10:00",
+				"end": "23:00"
+			},
+			"wed": {
+				"start": "10:00",
+				"end": "23:00"
+			},
+			"thu": {
+				"start": "10:00",
+				"end": "23:00"
+			},
+			"fri": {
+				"start": "10:00",
+				"end": "23:00"
+			},
+			"sat": {
+				"start": "10:00",
+				"end": "23:00"
+			},
+			"sun": {
+				"start": "10:00",
+				"end": "23:00"
+			}
+		}
+	},
+	{
+		"name": "store_7",
+		"position": {
+			"address": ""
+		},
+		"phone": "000",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			"",
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "15"
+			},
+			{
+				"name": "food_2",
+				"price": "15"
+			},
+			{
+				"name": "food_3",
+				"price": "15"
+			},
+			{
+				"name": "food_4",
+				"price": "15"
+			},
+			{
+				"name": "food_5",
+				"price": "15"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "15:30",
+				"end": "21:00"
+			},
+			"tue": {
+				"start": "15:30",
+				"end": "21:00"
+			},
+			"wed": {
+				"start": "15:30",
+				"end": "21:00"
+			},
+			"thu": {
+				"start": "15:30",
+				"end": "21:00"
+			},
+			"fri": {
+				"start": "15:30",
+				"end": "21:00"
+			},
+			"sat": {
+				"start": "15:30",
+				"end": "21:00"
+			},
+			"sun": {
+				"start": "15:30",
+				"end": "21:00"
+			}
+		}
+	},
+	{
+		"name": "store_8",
+		"position": {
+			"address": ""
+		},
+		"phone": "55555",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "70"
+			},
+			{
+				"name": "food_2",
+				"price": "35"
+			},
+			{
+				"name": "food_3",
+				"price": "75"
+			},
+			{
+				"name": "food_4",
+				"price": "100"
+			},
+			{
+				"name": "food_5",
+				"price": "55"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "05:00",
+				"end": "15:30"
+			},
+			"tue": {
+				"start": "05:00",
+				"end": "15:30"
+			},
+			"wed": {
+				"start": "05:00",
+				"end": "15:30"
+			},
+			"thu": {
+				"start": "05:00",
+				"end": "15:30"
+			},
+			"fri": {
+				"start": "05:00",
+				"end": "15:30"
+			},
+			"sat": {
+				"start": "05:00",
+				"end": "15:30"
+			},
+			"sun": {
+				"start": "05:00",
+				"end": "15:30"
+			}
+		}
+	},
+	{
+		"name": "store_9",
+		"position": {
+			"address": ""
+		},
+		"phone": "0",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "90"
+			},
+			{
+				"name": "food_2",
+				"price": "90"
+			},
+			{
+				"name": "food_3",
+				"price": "90"
+			},
+			{
+				"name": "food_4",
+				"price": "95"
+			},
+			{
+				"name": "food_5",
+				"price": "95"
+			},
+			{
+				"name": "food_6",
+				"price": "90"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "11:30",
+				"end": "20:00"
+			},
+			"tue": {
+				"start": "11:30",
+				"end": "20:00"
+			},
+			"wed": {
+				"start": "11:30",
+				"end": "20:00"
+			},
+			"thu": {
+				"start": "11:30",
+				"end": "20:00"
+			},
+			"fri": {
+				"start": "11:30",
+				"end": "20:00"
+			},
+			"sat": {
+				"start": "11:30",
+				"end": "20:00"
+			},
+			"sun": {
+				"start": "11:30",
+				"end": "20:00"
+			}
+		}
+	},
+	{
+		"name": "store_10",
+		"position": {
+			"address": ""
+		},
+		"phone": "000",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			"",
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "80"
+			},
+			{
+				"name": "food_2",
+				"price": "55"
+			},
+			{
+				"name": "food_2",
+				"price": "60"
+			},
+			{
+				"name": "food_3",
+				"price": "100"
+			},
+			{
+				"name": "food_4",
+				"price": "20"
+			},
+			{
+				"name": "food_5",
+				"price": "30"
+			},
+			{
+				"name": "food_6",
+				"price": "20"
+			},
+			{
+				"name": "food_7",
+				"price": "20"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"tue": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"wed": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"thu": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"fri": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"sat": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"sun": {
+				"start": "12:30",
+				"end": "23:30"
+			}
+		}
+	},
+	{
+		"name": "store_11",
+		"position": {
+			"address": ""
+		},
+		"phone": "69",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "70"
+			},
+			{
+				"name": "food_2",
+				"price": "70"
+			},
+			{
+				"name": "food_3",
+				"price": "80"
+			},
+			{
+				"name": "food_4",
+				"price": "100"
+			},
+			{
+				"name": "food_5",
+				"price": "55"
+			},
+			{
+				"name": "food_6",
+				"price": "85"
+			},
+			{
+				"name": "food_7",
+				"price": "90"
+			},
+			{
+				"name": "food_8",
+				"price": "85"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "10:00",
+				"end": "20:00"
+			},
+			"tue": {
+				"start": "10:00",
+				"end": "20:00"
+			},
+			"wed": {
+				"start": "10:00",
+				"end": "20:00"
+			},
+			"thu": {
+				"start": "10:00",
+				"end": "20:00"
+			},
+			"fri": {
+				"start": "10:00",
+				"end": "20:00"
+			},
+			"sat": {
+				"start": "10:00",
+				"end": "20:00"
+			},
+			"sun": {
+				"start": "10:00",
+				"end": "20:00"
+			}
+		}
+	},
+	{
+		"name": "store_11",
+		"position": {
+			"address": ""
+		},
+		"phone": "9669",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "100"
+			},
+			{
+				"name": "food_2",
+				"price": "80"
+			},
+			{
+				"name": "food_3",
+				"price": "85"
+			},
+			{
+				"name": "food_4",
+				"price": "90"
+			},
+			{
+				"name": "food_5",
+				"price": "110"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "11:00",
+				"end": "20:30"
+			},
+			"tue": {
+				"start": "11:00",
+				"end": "20:30"
+			},
+			"wed": {
+				"start": "11:00",
+				"end": "20:30"
+			},
+			"thu": {
+				"start": "11:00",
+				"end": "20:30"
+			},
+			"fri": {
+				"start": "11:00",
+				"end": "20:30"
+			},
+			"sat": {
+				"start": "11:00",
+				"end": "20:30"
+			},
+			"sun": {
+				"start": "11:00",
+				"end": "20:30"
+			}
+		}
+	},
+	{
+		"name": "store_12",
+		"position": {
+			"address": ""
+		},
+		"phone": "09",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "55"
+			},
+			{
+				"name": "food_2",
+				"price": "55"
+			},
+			{
+				"name": "food_3",
+				"price": "55"
+			},
+			{
+				"name": "food_4",
+				"price": "55"
+			},
+			{
+				"name": "food_5",
+				"price": "75"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "9:30",
+				"end": "21:30"
+			},
+			"tue": {
+				"start": "9:30",
+				"end": "21:30"
+			},
+			"wed": {
+				"start": "9:30",
+				"end": "21:30"
+			},
+			"thu": {
+				"start": "9:30",
+				"end": "21:30"
+			},
+			"fri": {
+				"start": "9:30",
+				"end": "21:30"
+			},
+			"sat": {
+				"start": "9:30",
+				"end": "22:30"
+			},
+			"sun": {
+				"start": "9:30",
+				"end": "22:30"
+			}
+		}
+	},
+	{
+		"name": "store_13",
+		"position": {
+			"address": ""
+		},
+		"phone": "02",
+		"store_description": "",
+		"order_description": "",
+		"type": [
+			""
+		],
+		"menu": [{
+				"name": "food_1",
+				"price": "100"
+			},
+			{
+				"name": "food_2",
+				"price": "150"
+			},
+			{
+				"name": "food_3",
+				"price": "200"
+			},
+			{
+				"name": "food_4",
+				"price": "150"
+			},
+			{
+				"name": "food_5",
+				"price": "90"
+			}
+		],
+		"opening_hours": {
+			"mon": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"tue": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"wed": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"thu": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"fri": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"sat": {
+				"start": "12:30",
+				"end": "23:30"
+			},
+			"sun": {
+				"start": "12:30",
+				"end": "23:30"
+			}
+		}
+	}
+]
